@@ -1,7 +1,14 @@
 html {
-  background-color: ;
+  background-color: #000;
+  font-family: Vibes, cursive;
+  font-family: Spartan, sans-serif;
+}
+
+h1 {
+  font-family: Vibes,cursive;
+  font-size: 60px;
 }
 
 .content {
-
+  background-color: #fff;
 }

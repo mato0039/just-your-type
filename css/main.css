@@ -12,3 +12,7 @@ h1 {
 .content {
   background-color: #fff;
 }
+
+.noun {
+  display: block;
+}

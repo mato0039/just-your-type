@@ -16,3 +16,7 @@ h1 {
 .noun {
   display: block;
 }
+
+.card {
+  justify-content: center;
+}

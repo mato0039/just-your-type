@@ -9,14 +9,14 @@ h1 {
   font-size: 60px;
 }
 
-.content {
+.card {
   background-color: #fff;
+}
+
+.content {
+  justify-content: center;
 }
 
 .noun {
   display: block;
-}
-
-.card {
-  justify-content: center;
 }

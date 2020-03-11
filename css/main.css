@@ -22,7 +22,7 @@ h1 {
 }
 
 .rectangle {
-  background-color: #82acff;
+  background-color: rgba(59, 114, 169, 0.89);
   padding: 1.5rem;
   width: 50%;
   height: 10%;

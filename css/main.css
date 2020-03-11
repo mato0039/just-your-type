@@ -9,7 +9,7 @@ h1 {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #ffd55b;
   position: relative;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 .rectangle {
-  background-color: #ffe91a;
+  background-color: #82acff;
   padding: 1.5rem;
   width: 50%;
   height: 10%;

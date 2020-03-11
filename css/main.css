@@ -1,5 +1,5 @@
 html {
-  background-color: #000;
+  background-color: #2a3132;
   font-family: Vibes, cursive;
   font-family: Spartan, sans-serif;
 }
@@ -10,6 +10,7 @@ h1 {
 
 .card {
   background-color: #fff;
+  position: relative;
 }
 
 .content {
@@ -18,4 +19,14 @@ h1 {
 
 .noun {
   display: block;
+}
+
+.rectangle {
+  background-color: #ffe91a;
+  padding: 1.5rem;
+  width: 50%;
+  height: 10%;
+  position: absolute;
+  left: 6.5rem;
+  top: -1.5rem;
 }
